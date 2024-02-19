@@ -1,12 +1,18 @@
-<h1 align="center">Hi 👋, I'm Achraf jmel</h1>
-<h3 align="left">I am a developer fueled by a deep passion for code and technology. Creating elegant solutions to complex problems is my calling, and I pour my heart and soul into every line of code I write. With a strong background in various programming languages, including C # , Python , JavaScript , PHP and C , I am well-versed in the latest technologies and trends in the industry. However, it's not just about the technical skills for me, it's about the impact that my work can have on people's lives. I believe that software has the power to make the world a better place and that is what drives me to continuously learn, grow and improve as a developer. Let's make a difference together.</h3>
-<img align ="centre" alt="coding" width="600" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+# 💫 About Me:
+<br>Embracing the vibrant journey of growth and discovery, I find myself deeply immersed in the captivating realm of data science and machine learning, guided by the elegant syntax of Python. 📘 With each line of code, I weave my curiosity into projects that transcend mere ideas, aspiring to craft innovative solutions that address the intricate puzzles of our world. 🛠️<br><br>Venturing further, I'm enchanted by the endless possibilities within the data universe and the transformative power of AI. This exploration is not just about understanding algorithms but uncovering the stories hidden in the data, revealing insights that could change our perception of reality. 🧬<br><br>My path is also paved with the spirit of collaboration, joining hands with fellow visionaries and contributing to the open-source oasis. Through this synergy, we not only share knowledge but also ignite the flame of creativity, pushing the boundaries of what's possible. 🤝<br><br>I am a firm believer in the philosophy of learning through action. There's a certain magic in applying what you've learned, experimenting, failing, and then rising again with newfound wisdom. It's this cycle of continuous learning and sharing that propels me forward. 🚀<br><br>Joining the GitHub community has opened a new chapter in my journey, one where I'm eager to share my experiences, learn from the diverse tapestry of minds, and contribute to a future where technology and humanity converge in harmony. Let's embark on this adventure together, crafting a legacy that echoes through the code we write and the lives we touch.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=achrafjm&label=Profile%20views&color=0e75b6&style=flat" alt="achrafjm" /> </p>
 
-- 📫 How to reach me **achrafjmel@hotmail.com**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Achraf Jmel ) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/achraf jmel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achraf jmel" height="30" width="40" /></a>
-</p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=achrafjm&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
